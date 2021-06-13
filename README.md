@@ -17,7 +17,7 @@ A curated list of **Visual Captioning** and related area.
      * [2020](#2020)
         - [EMNLP 2020](#EMNLP-2020)
         - [NIPS 2020](#NIPS-2020)
-        - [ACM MM 2020](#ACM MM-2020)
+        - [ACM MM 2020](#ACMMM-2020)
         - [ECCV 2020](#ECCV-2020)
         - [IJCAI 2020](#IJCAI-2020)
         - [ACL 2020](#ACL-2020)
