@@ -124,7 +124,7 @@ A curated list of **Visual Captioning** and related area.
 
 #### ECCV 2020
 ##### Image Captioning
-- Compare and Reweight: Distinctive Image Captioning Using Similar Images Sets. `oral` [[paper]](https://arxiv.org/pdf/2007.06877.pdf)
+- Compare and Reweight: Distinctive Image Captioning Using Similar Images Sets.  [[paper]](https://arxiv.org/pdf/2007.06877.pdf)
 - Towards Unique and Informative Captioning of Images. [[paper]](http://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123520613.pdf) 
 - Learning Visual Representations with Caption Annotations. [[paper]](https://arxiv.org/pdf/2008.01392.pdf) 
 - Fashion Captioning: Towards Generating Accurate Descriptions with Semantic Rewards. [[paper]](https://arxiv.org/pdf/2008.02693.pdf)
