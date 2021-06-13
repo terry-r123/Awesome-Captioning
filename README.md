@@ -129,7 +129,7 @@ A curated list of **Visual Captioning** and related area.
 - Learning Visual Representations with Caption Annotations. [[paper]](https://arxiv.org/pdf/2008.01392.pdf) 
 - Fashion Captioning: Towards Generating Accurate Descriptions with Semantic Rewards. [[paper]](https://arxiv.org/pdf/2008.02693.pdf)
 - Length Controllable Image Captioning. [[paper]](https://arxiv.org/pdf/2007.09580.pdf) [[code]](https://github.com/bearcatt/LaBERT)
-- Comprehensive Image Captioning via Scene Graph Decomposition. [[paper]](https://arxiv.org/pdf/2007.11731.pdf) [[website]](http://pages.cs.wisc.edu/~yiwuzhong/Sub-GC.html)
+- Comprehensive Image Captioning via Scene Graph Decomposition. [[paper]](https://arxiv.org/pdf/2007.11731.pdf) 
 - Finding It at Another Side: A Viewpoint-Adapted Matching Encoder for Change Captioning. [[paper]](http://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123590562.pdf)
 - Captioning Images Taken by People Who Are Blind. [[paper]](http://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123620409.pdf)
 - Learning to Generate Grounded Visual Captions without Localization Supervision. [[paper]](https://arxiv.org/pdf/1906.00283.pdf) [[code]](https://github.com/chihyaoma/cyclical-visual-captioning)
