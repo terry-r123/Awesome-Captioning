@@ -11,6 +11,7 @@ A curated list of **Visual Captioning** and related area.
 ## Table of Contents
   * [Papers](#papers)
     * [2021](#2021)
+        - [ACL 2021](#ACL-2021)
         - [NAACL 2021](#NAACL-2021)
         - [CVPR 2021](#CVPR-2021)
         - [AAAI 2021](#AAAI-2021)
@@ -34,10 +35,21 @@ A curated list of **Visual Captioning** and related area.
         * [ECCV 2018](#ECCV-2018)
         * [ACL 2018](#ACL-2018)
         * [CVPR 2018](#CVPR-2018)
+     * [2015](#2015)
+        * [NIPS 2018](#NIPS-2018)
+        * [ECCV 2018](#ECCV-2018)
+        * [ACL 2018](#ACL-2018)
+        * [CVPR 2015](#CVPR-2015)
   * [Reference and Acknowledgement](#reference-and-acknowledgement)
 
 ## Papers
 ### 2021
+#### ACL 2021
+##### Image Captioning
+- Writing by Memorizing: Hierarchical Retrieval-based Medical Report Generation. [[paper]](https://arxiv.org/pdf/2106.06471.pdf)   
+
+##### Video Captioning
+
 #### NAACL 2021
 ##### Image Captioning
 - Quality Estimation for Image Captions Based on Large-scale Human Evaluations. [[paper]](https://www.aclweb.org/anthology/2021.naacl-main.253.pdf)   
@@ -377,7 +389,19 @@ A curated list of **Visual Captioning** and related area.
 - Bottom-Up and Top-Down Attention for Image Captioning and Visual Question Answering. [[paper]](http://openaccess.thecvf.com/content_cvpr_2018/html/Anderson_Bottom-Up_and_Top-Down_CVPR_2018_paper.html)  [[code]](https://github.com/peteanderson80/bottom-up-attention) 
 - Neural Baby Talk. [[paper]](https://arxiv.org/pdf/1803.09845.pdf) 
 
+### 2015
 
+#### ICML 2015 ####
+##### Image Captioning
+- Show, Attend and Tell: Neural Image Caption Generation with Visual Attention. [[paper]](https://arxiv.org/pdf/1502.03044.pdf)   
+
+#### CVPR 2015 ####
+##### Image Captioning
+- Show and Tell: A Neural Image Caption Generator. [[paper]](https://arxiv.org/pdf/1411.4555.pdf)   
+
+#### ICLR 2015 ####
+##### Image Captioning
+- Deep Captioning with Multimodal Recurrent Neural Networks (m-RNN). [[paper]](https://arxiv.org/pdf/1412.6632.pdf)   
 
 ## Reference and Acknowledgement
 * [**awesome-image-captioning**](https://github.com/zhjohnchan/awesome-image-captioning) from [Zhihong Chen](https://github.com/zhjohnchan)
