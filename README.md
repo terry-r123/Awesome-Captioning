@@ -14,6 +14,7 @@ A curated list of **Visual Captioning** and related area.
         - [ACL 2021](#ACL-2021)
         - [NAACL 2021](#NAACL-2021)
         - [CVPR 2021](#CVPR-2021)
+        
         - [AAAI 2021](#AAAI-2021)
      * [2020](#2020)
         - [EMNLP 2020](#EMNLP-2020)
@@ -36,10 +37,9 @@ A curated list of **Visual Captioning** and related area.
         * [ACL 2018](#ACL-2018)
         * [CVPR 2018](#CVPR-2018)
      * [2015](#2015)
-        * [NIPS 2018](#NIPS-2018)
-        * [ECCV 2018](#ECCV-2018)
-        * [ACL 2018](#ACL-2018)
+        * [ICML 2015](#ICML-2015)
         * [CVPR 2015](#CVPR-2015)
+        * [ICLR 2015](#ICLR-2015)
   * [Reference and Acknowledgement](#reference-and-acknowledgement)
 
 ## Papers
@@ -48,7 +48,6 @@ A curated list of **Visual Captioning** and related area.
 ##### Image Captioning
 - Writing by Memorizing: Hierarchical Retrieval-based Medical Report Generation. [[paper]](https://arxiv.org/pdf/2106.06471.pdf)   
 
-##### Video Captioning
 
 #### NAACL 2021
 ##### Image Captioning
@@ -76,6 +75,12 @@ A curated list of **Visual Captioning** and related area.
 - Open-Book Video Captioning With Retrieve-Copy-Generate Network. [[paper]](https://arxiv.org/pdf/2103.05284.pdf)  
 - Towards Diverse Paragraph Captioning for Untrimmed Videos.  [[paper]](https://openaccess.thecvf.com/content/CVPR2021/papers/Song_Towards_Diverse_Paragraph_Captioning_for_Untrimmed_Videos_CVPR_2021_paper.pdf) 
 - Towards Bridging Event Captioner and Sentence Localizer for Weakly Supervised Dense Event Captioning. [[paper]](https://openaccess.thecvf.com/content/CVPR2021/papers/Chen_Towards_Bridging_Event_Captioner_and_Sentence_Localizer_for_Weakly_Supervised_CVPR_2021_paper.pdf)
+
+[comment]: <> (#### ICASSP 2021)
+
+[comment]: <> (##### Image Captioning)
+
+[comment]: <> (- Writing by Memorizing: Hierarchical Retrieval-based Medical Report Generation. [[paper]]&#40;https://arxiv.org/pdf/2106.06471.pdf&#41;   )
 
 #### AAAI 2021
 ##### Image Captioning
@@ -379,6 +384,7 @@ A curated list of **Visual Captioning** and related area.
 #### ECCV 2018 ####
 ##### Image Captioning
 - Unpaired Image Captioning by Language Pivoting. [[paper]](https://arxiv.org/pdf/1803.05526.pdf)  [[code]](https://github.com/gujiuxiang/unpaired_image_captioning)
+- Exploring Visual Relationship for Image Captioning. [[paper]](https://arxiv.org/pdf/1809.07041.pdf)  
 
 #### ACL 2018
 ##### Image Captioning
