@@ -14,7 +14,6 @@ A curated list of **Visual Captioning** and related area.
         - [ACL 2021](#ACL-2021)
         - [NAACL 2021](#NAACL-2021)
         - [CVPR 2021](#CVPR-2021)
-        
         - [AAAI 2021](#AAAI-2021)
      * [2020](#2020)
         - [EMNLP 2020](#EMNLP-2020)
@@ -287,7 +286,7 @@ A curated list of **Visual Captioning** and related area.
 - Joint Syntax Representation Learning and Visual Cue Translation for Video Captioning. [[paper]](http://openaccess.thecvf.com/content_ICCV_2019/papers/Hou_Joint_Syntax_Representation_Learning_and_Visual_Cue_Translation_for_Video_ICCV_2019_paper.pdf)
 
 #### ACL 2019 ####
-##### Visual Captioning
+##### Image Captioning
 - Informative Image Captioning with External Sources of Information  [[paper]](https://www.aclweb.org/anthology/P19-1650.pdf)  
 
 - Bridging by Word: Image Grounded Vocabulary Construction for Visual Captioning  [[paper]](https://www.aclweb.org/anthology/P19-1652.pdf)  
