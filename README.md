@@ -94,7 +94,7 @@ A curated list of **Visual Captioning** and related area.
 - VIVO: Visual Vocabulary Pre-Training for Novel Object Captioning. [[paper]](https://arxiv.org/pdf/2009.13682)  
 
 ##### Video Captioning
-- Non-Autoregressive Coarse-to-Fine Video Captioning. [[paper]](https://arxiv.org/pdf/1911.12018.pdf)  
+- Non-Autoregressive Coarse-to-Fine Video Captioning. [[paper]](https://arxiv.org/pdf/1911.12018.pdf)  [[code]](https://github.com/yangbang18/Non-Autoregressive-Video-Captioning)    
 - Semantic Grouping Network for Video Captioning. [[paper]](https://arxiv.org/pdf/2102.00831.pdf) [[code]](https://github.com/hobincar/SGN)    
 - Augmented Partial Mutual Learning with Frame Masking for Video Captioning. [[paper]](https://www.aaai.org/AAAI21Papers/AAAI-9714.LinK.pdf)  
 
