@@ -12,6 +12,7 @@ A curated list of **Visual Captioning** and related area.
   * [Papers](#papers)
     * [2021](#2021)
         - [ACL 2021](#ACL-2021)
+        - [IJCAI 2021](#IJCAI-2021)
         - [NAACL 2021](#NAACL-2021)
         - [CVPR 2021](#CVPR-2021)
         - [AAAI 2021](#AAAI-2021)
@@ -47,6 +48,9 @@ A curated list of **Visual Captioning** and related area.
 ##### Image Captioning
 - Writing by Memorizing: Hierarchical Retrieval-based Medical Report Generation. [[paper]](https://arxiv.org/pdf/2106.06471.pdf)   
 
+#### IJCAI 2021
+##### Image Captioning
+- TCIC: Theme Concepts Learning Cross Language and Vision for Image Captioning. [[paper]](https://arxiv.org/pdf/2106.10936.pdf)   
 
 #### NAACL 2021
 ##### Image Captioning
