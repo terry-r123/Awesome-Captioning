@@ -73,6 +73,10 @@ A curated list of **Visual Captioning** and related area.
 - Quality Estimation for Image Captions Based on Large-scale Human Evaluations. [[paper]](https://www.aclweb.org/anthology/2021.naacl-main.253.pdf)   
 - Improving Factual Completeness and Consistency of Image-to-Text Radiology Report Generation. [[paper]](https://www.aclweb.org/anthology/2021.naacl-main.416.pdf)
 
+[comment]: <> (- Validity-Based Sampling and Smoothing Methods for Multiple Reference Image Captioning. [[paper]]&#40;https://www.aclweb.org/anthology/2021.maiworkshop-1.6.pdf&#41;)
+[comment]: <> (- Leveraging Partial Dependency Trees to Control Image Captions. [[paper]]&#40;https://www.aclweb.org/anthology/2021.alvr-1.3.pdf&#41;)
+[comment]: <> (- Coherent and Concise Radiology Report Generation via Context Specific Image Representations and Orthogonal Sentence States. [[paper]]&#40;https://www.aclweb.org/anthology/2021.naacl-industry.31.pdf&#41;)
+[comment]: <> (- Multi-Modal Image Captioning for the Visually Impaired. [[paper]]&#40;https://www.aclweb.org/anthology/2021.naacl-srw.8.pdf&#41;)
 ##### Video Captioning
 - DeCEMBERT: Learning from Noisy Instructional Videos via Dense Captions and Entropy Minimization. [[paper]](https://www.aclweb.org/anthology/2021.naacl-main.193.pdf)  
 
