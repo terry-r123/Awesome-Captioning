@@ -47,6 +47,21 @@ A curated list of **Visual Captioning** and related area.
 #### ACL 2021
 ##### Image Captioning
 - Writing by Memorizing: Hierarchical Retrieval-based Medical Report Generation. [[paper]](https://arxiv.org/pdf/2106.06471.pdf)   
+- Competence-based Multimodal Curriculum Learning for Medical Report Generation.
+- Control Image Captioning Spatially and Temporally. 
+- SMURF: SeMantic and linguistic UndeRstanding Fusion for Caption Evaluation via Typicality Analysis. [[paper]](https://arxiv.org/pdf/2106.01444.pdf)   
+- Enhancing Descriptive Image Captioning with Natural Language Inference.
+- UMIC: An Unreferenced Metric for Image Captioning via Contrastive Learning.
+[comment]: <> (- IgSEG: Image-guided Story Ending Generation.)
+[comment]: <> (- Semantic Relation-aware Difference Representation Learning for Change Captioning.)
+- Cross-modal Memory Networks for Radiology Report Generation.
+
+[comment]: <> (- Contrastive Attention for Automatic Chest X-ray Report Generation. [[paper]]&#40;https://arxiv.org/pdf/2106.06965.pdf&#41;)
+##### Video Captioning
+- Hierarchical Context-aware Network for Dense Video Event Captioning. 
+- Video Paragraph Captioning as a Text Summarization Task.
+
+[comment]: <> (- O2NA: An Object-Oriented Non-Autoregressive Approach for Controllable Video Captioning.)
 
 #### IJCAI 2021
 ##### Image Captioning
@@ -55,6 +70,7 @@ A curated list of **Visual Captioning** and related area.
 #### NAACL 2021
 ##### Image Captioning
 - Quality Estimation for Image Captions Based on Large-scale Human Evaluations. [[paper]](https://www.aclweb.org/anthology/2021.naacl-main.253.pdf)   
+- Improving Factual Completeness and Consistency of Image-to-Text Radiology Report Generation. [[paper]](https://www.aclweb.org/anthology/2021.naacl-main.416.pdf)
 
 ##### Video Captioning
 - DeCEMBERT: Learning from Noisy Instructional Videos via Dense Captions and Entropy Minimization. [[paper]](https://www.aclweb.org/anthology/2021.naacl-main.193.pdf)  
