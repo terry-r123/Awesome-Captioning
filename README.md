@@ -52,9 +52,10 @@ A curated list of **Visual Captioning** and related area.
 - SMURF: SeMantic and linguistic UndeRstanding Fusion for Caption Evaluation via Typicality Analysis. [[paper]](https://arxiv.org/pdf/2106.01444.pdf)   
 - Enhancing Descriptive Image Captioning with Natural Language Inference.
 - UMIC: An Unreferenced Metric for Image Captioning via Contrastive Learning.
+- Cross-modal Memory Networks for Radiology Report Generation.
+
 [comment]: <> (- IgSEG: Image-guided Story Ending Generation.)
 [comment]: <> (- Semantic Relation-aware Difference Representation Learning for Change Captioning.)
-- Cross-modal Memory Networks for Radiology Report Generation.
 
 [comment]: <> (- Contrastive Attention for Automatic Chest X-ray Report Generation. [[paper]]&#40;https://arxiv.org/pdf/2106.06965.pdf&#41;)
 ##### Video Captioning
