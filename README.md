@@ -51,7 +51,7 @@ A curated list of **Visual Captioning** and related area.
 - Control Image Captioning Spatially and Temporally. 
 - SMURF: SeMantic and linguistic UndeRstanding Fusion for Caption Evaluation via Typicality Analysis. [[paper]](https://arxiv.org/pdf/2106.01444.pdf)   
 - Enhancing Descriptive Image Captioning with Natural Language Inference.
-- UMIC: An Unreferenced Metric for Image Captioning via Contrastive Learning.
+- UMIC: An Unreferenced Metric for Image Captioning via Contrastive Learning. [[paper]](https://arxiv.org/pdf/2106.14019.pdf) [[code]](https://github.com/hwanheelee1993/UMIC)
 - Cross-modal Memory Networks for Radiology Report Generation.
 
 [comment]: <> (- IgSEG: Image-guided Story Ending Generation.)
@@ -122,6 +122,10 @@ A curated list of **Visual Captioning** and related area.
 - Non-Autoregressive Coarse-to-Fine Video Captioning. [[paper]](https://arxiv.org/pdf/1911.12018.pdf)  [[code]](https://github.com/yangbang18/Non-Autoregressive-Video-Captioning)    
 - Semantic Grouping Network for Video Captioning. [[paper]](https://arxiv.org/pdf/2102.00831.pdf) [[code]](https://github.com/hobincar/SGN)    
 - Augmented Partial Mutual Learning with Frame Masking for Video Captioning. [[paper]](https://www.aaai.org/AAAI21Papers/AAAI-9714.LinK.pdf)  
+
+#### TPAMI 2021
+##### Video Captioning
+- Saying the Unseen: Video Descriptions via Dialog Agents. [[paper]](https://arxiv.org/pdf/2106.14069.pdf)
 
 ### 2020
 #### EMNLP 2020
@@ -408,7 +412,7 @@ A curated list of **Visual Captioning** and related area.
 #### ECCV 2018 ####
 ##### Image Captioning
 - Unpaired Image Captioning by Language Pivoting. [[paper]](https://arxiv.org/pdf/1803.05526.pdf)  [[code]](https://github.com/gujiuxiang/unpaired_image_captioning)
-- Exploring Visual Relationship for Image Captioning. [[paper]](https://arxiv.org/pdf/1809.07041.pdf)  
+- Exploring Visual Relationship for Image Captioning. [[paper]](https://openaccess.thecvf.com/content_ECCV_2018/papers/Ting_Yao_Exploring_Visual_Relationship_ECCV_2018_paper.pdf)
 
 #### ACL 2018
 ##### Image Captioning
@@ -418,6 +422,7 @@ A curated list of **Visual Captioning** and related area.
 ##### Image Captioning
 - Bottom-Up and Top-Down Attention for Image Captioning and Visual Question Answering. [[paper]](http://openaccess.thecvf.com/content_cvpr_2018/html/Anderson_Bottom-Up_and_Top-Down_CVPR_2018_paper.html)  [[code]](https://github.com/peteanderson80/bottom-up-attention) 
 - Neural Baby Talk. [[paper]](https://arxiv.org/pdf/1803.09845.pdf) 
+
 
 ### 2015
 
