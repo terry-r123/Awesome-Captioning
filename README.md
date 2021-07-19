@@ -184,6 +184,7 @@ A curated list of **Visual Captioning** and related area.
 - Learning to Generate Grounded Visual Captions without Localization Supervision. [[paper]](https://arxiv.org/pdf/1906.00283.pdf) [[code]](https://github.com/chihyaoma/cyclical-visual-captioning)
 - Finding It at Another Side: A Viewpoint-Adapted Matching Encoder for Change Captioning. [[paper]](http://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123590562.pdf) 
 - Describing Textures using Natural Language. [[paper]](https://www.ecva.net/papers/eccv_2020/papers_ECCV/html/384_ECCV_2020_paper.php) 
+- Connecting Vision and Language with Localized Narratives. [[paper]](https://arxiv.org/pdf/1912.03098.pdf) [[code]](https://github.com/google/localized-narratives)
 ##### Text Captioning
 - TextCaps: a Dataset for Image Captioning with Reading Comprehension.  [[paper]](https://arxiv.org/pdf/2003.12462.pdf)  [[code]](https://github.com/facebookresearch/mmf/tree/master/projects/m4c_captioner)
 
@@ -396,7 +397,8 @@ A curated list of **Visual Captioning** and related area.
 ##### Image Captioning
 - Unpaired Image Captioning by Language Pivoting. [[paper]](https://arxiv.org/pdf/1803.05526.pdf)  [[code]](https://github.com/gujiuxiang/unpaired_image_captioning)
 - Exploring Visual Relationship for Image Captioning. [[paper]](https://openaccess.thecvf.com/content_ECCV_2018/papers/Ting_Yao_Exploring_Visual_Relationship_ECCV_2018_paper.pdf)
-
+- Recurrent Fusion Network for Image Captioning. [[paper]](https://arxiv.org/pdf/1807.09986.pdf) [[code]](https://github.com/cswhjiang/Recurrent_Fusion_Network)
+- Boosted Attention: Leveraging Human Attention for Image Captioning. [[paper]](https://arxiv.org/pdf/1904.00767.pdf)
 #### ACL 2018
 ##### Image Captioning
 - Attacking Visual Language Grounding with Adversarial Examples: A Case Study on Neural Image Captioning. [[paper]](https://arxiv.org/pdf/1712.02051.pdf) 
@@ -406,19 +408,42 @@ A curated list of **Visual Captioning** and related area.
 ##### Image Captioning
 - Bottom-Up and Top-Down Attention for Image Captioning and Visual Question Answering. [[paper]](http://openaccess.thecvf.com/content_cvpr_2018/html/Anderson_Bottom-Up_and_Top-Down_CVPR_2018_paper.html)  [[code]](https://github.com/peteanderson80/bottom-up-attention) 
 - Neural Baby Talk. [[paper]](https://arxiv.org/pdf/1803.09845.pdf) 
+- GroupCap: Group-Based Image Captioning With Structured Relevance and Diversity Constraints. [[paper]](https://openaccess.thecvf.com/content_cvpr_2018/papers/Chen_GroupCap_Group-Based_Image_CVPR_2018_paper.pdf)
+### 2017
+#### ICCV 2017 
+##### Image Captioning
+- Boosting Image Captioning with Attributes. [[paper]](https://openaccess.thecvf.com/content_ICCV_2017/papers/Yao_Boosting_Image_Captioning_ICCV_2017_paper.pdf)
+
+#### CVPR 2017 
+##### Image Captioning
+- SCA-CNN: Spatial and Channel-wise Attention in Convolutional Networks for Image Captioning. [[paper]](https://openaccess.thecvf.com/content_cvpr_2017/papers/Chen_SCA-CNN_Spatial_and_CVPR_2017_paper.pdf)  [[code]](https://github.com/zjuchenlong/sca-cnn.cvpr17) 
+- When to Look: Adaptive Attention via A Visual Sentinel for Image Captioning. [[paper]](https://arxiv.org/pdf/1612.01887.pdf) [[code]](https://github.com/jiasenlu/AdaptiveAttention)
+- Self-critical Sequence Training for Image Captioning. [[paper]](https://openaccess.thecvf.com/content_cvpr_2017/papers/Rennie_Self-Critical_Sequence_Training_CVPR_2017_paper.pdf)
+
+##### TPAMI 2017
+##### Image Captioning
+- Aligning Where to See and What to Tell: Image Captioning with Region-Based Attention and Scene-Specific Contexts. [[paper]](https://ieeexplore.ieee.org/abstract/document/7792748) [[code]](https://github.com/fukun07/neural-image-captioning)
+
+### 2016
+#### CVPR 2016
+##### Image Captioning
+-  Image Captioning with Semantic Attention. [[paper]](https://openaccess.thecvf.com/content_cvpr_2016/papers/You_Image_Captioning_With_CVPR_2016_paper.pdf) [[code]](https://github.com/chapternewscu/image-captioning-with-semantic-attention)
 
 
 ### 2015
-
-#### ICML 2015 ####
+#### ICML 2015 
 ##### Image Captioning
 - Show, Attend and Tell: Neural Image Caption Generation with Visual Attention. [[paper]](https://arxiv.org/pdf/1502.03044.pdf)   
 
-#### CVPR 2015 ####
+#### ICCV 2015
+##### Image Captioning
+- Guiding Long-Short Term Memory for Image Caption Generation. [[paper]](https://arxiv.org/pdf/1509.04942.pdf)
+
+#### CVPR 2015 
 ##### Image Captioning
 - Show and Tell: A Neural Image Caption Generator. [[paper]](https://arxiv.org/pdf/1411.4555.pdf)   
 
-#### ICLR 2015 ####
+#### ICLR 2015 
 ##### Image Captioning
 - Deep Captioning with Multimodal Recurrent Neural Networks (m-RNN). [[paper]](https://arxiv.org/pdf/1412.6632.pdf)   
 
