@@ -176,7 +176,7 @@ A curated list of **Visual Captioning** and related area.
 - Compare and Reweight: Distinctive Image Captioning Using Similar Images Sets.  [[paper]](https://arxiv.org/pdf/2007.06877.pdf)
 - Towards Unique and Informative Captioning of Images. [[paper]](http://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123520613.pdf) 
 - Learning Visual Representations with Caption Annotations. [[paper]](https://arxiv.org/pdf/2008.01392.pdf) 
-- Fashion Captioning: Towards Generating Accurate Descriptions with Semantic Rewards. [[paper]](https://arxiv.org/pdf/2008.02693.pdf)
+- Fashion Captioning: Towards Generating Accurate Descriptions with Semantic Rewards. [[paper]](https://arxiv.org/pdf/2008.02693.pdf) [[code]](https://github.com/xuewyang/Fashion_Captioning)
 - Length Controllable Image Captioning. [[paper]](https://arxiv.org/pdf/2007.09580.pdf) [[code]](https://github.com/bearcatt/LaBERT)
 - Comprehensive Image Captioning via Scene Graph Decomposition. [[paper]](https://arxiv.org/pdf/2007.11731.pdf) 
 - Finding It at Another Side: A Viewpoint-Adapted Matching Encoder for Change Captioning. [[paper]](http://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123590562.pdf)
@@ -338,8 +338,7 @@ A curated list of **Visual Captioning** and related area.
   
 - Adversarial Semantic Alignment for Improved Image Captions  [[paper]](http://openaccess.thecvf.com/content_CVPR_2019/papers/Dognin_Adversarial_Semantic_Alignment_for_Improved_Image_Captions_CVPR_2019_paper.pdf)  
   
-- Good News, Everyone! Context driven entity-aware captioning for news images  [[paper]](http://openaccess.thecvf.com/content_CVPR_2019/papers/Biten_Good_News_Everyone_Context_Driven_Entity-Aware_Captioning_for_News_Images_CVPR_2019_paper.pdf)  [[code]](https://github.com/furkanbiten/GoodNews)  
-  
+- Good News, Everyone! Context driven entity-aware captioning for news images.  [[paper]](http://openaccess.thecvf.com/content_CVPR_2019/papers/Biten_Good_News_Everyone_Context_Driven_Entity-Aware_Captioning_for_News_Images_CVPR_2019_paper.pdf)  [[code]](https://github.com/furkanbiten/GoodNews)
 - Pointing Novel Objects in Image Captioning  [[paper]](http://openaccess.thecvf.com/content_CVPR_2019/papers/Li_Pointing_Novel_Objects_in_Image_Captioning_CVPR_2019_paper.pdf)   
   
 - Engaging Image Captioning via Personality  [[paper]](http://openaccess.thecvf.com/content_CVPR_2019/papers/Shuster_Engaging_Image_Captioning_via_Personality_CVPR_2019_paper.pdf)  
@@ -423,12 +422,12 @@ A curated list of **Visual Captioning** and related area.
 ##### TPAMI 2017
 ##### Image Captioning
 - Aligning Where to See and What to Tell: Image Captioning with Region-Based Attention and Scene-Specific Contexts. [[paper]](https://ieeexplore.ieee.org/abstract/document/7792748) [[code]](https://github.com/fukun07/neural-image-captioning)
-
+- BreakingNews: Article Annotation by Image and Text Processing. [[paper]](https://arxiv.org/pdf/1603.07141.pdf)
 ### 2016
 #### CVPR 2016
 ##### Image Captioning
--  Image Captioning with Semantic Attention. [[paper]](https://openaccess.thecvf.com/content_cvpr_2016/papers/You_Image_Captioning_With_CVPR_2016_paper.pdf) [[code]](https://github.com/chapternewscu/image-captioning-with-semantic-attention)
-
+- Image Captioning with Semantic Attention. [[paper]](https://openaccess.thecvf.com/content_cvpr_2016/papers/You_Image_Captioning_With_CVPR_2016_paper.pdf) [[code]](https://github.com/chapternewscu/image-captioning-with-semantic-attention)
+- Learning Deep Representations of Fine-grained Visual Descriptions. [[paper]](https://arxiv.org/pdf/1605.05395.pdf) [[code]](https://github.com/reedscot/cvpr2016)
 
 ### 2015
 #### ICML 2015 
