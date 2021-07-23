@@ -349,17 +349,12 @@ A curated list of **Visual Captioning** and related area.
   
 - Towards Unsupervised Image Captioning with Shared Multimodal Embeddings. [[paper]](http://openaccess.thecvf.com/content_CVPR_2019/papers/Zadeh_Social-IQ_A_Question_Answering_Benchmark_for_Artificial_Social_Intelligence_CVPR_2019_paper.pdf) 
 ##### Video Captioning
--  Streamlined Dense Video Captioning  [[paper]](http://openaccess.thecvf.com/content_CVPR_2019/papers/Mun_Streamlined_Dense_Video_Captioning_CVPR_2019_paper.pdf)  
-
--  Grounded Video Description  [[paper]](http://openaccess.thecvf.com/content_CVPR_2019/papers/Zhou_Grounded_Video_Description_CVPR_2019_paper.pdf)  
-
--  Adversarial Inference for Multi-Sentence Video Description  [[paper]](http://openaccess.thecvf.com/content_CVPR_2019/papers/Park_Adversarial_Inference_for_Multi-Sentence_Video_Description_CVPR_2019_paper.pdf)  
-   
--  Object-aware Aggregation with Bidirectional Temporal Graph for Video Captioning  [[paper]](http://openaccess.thecvf.com/content_CVPR_2019/papers/Zhang_Object-Aware_Aggregation_With_Bidirectional_Temporal_Graph_for_Video_Captioning_CVPR_2019_paper.pdf)  
-   
--  Memory-Attended Recurrent Network for Video Captioning  [[paper]](http://openaccess.thecvf.com/content_CVPR_2019/papers/Pei_Memory-Attended_Recurrent_Network_for_Video_Captioning_CVPR_2019_paper.pdf)  
-   
--  Spatio-Temporal Dynamics and Semantic Attribute Enriched Visual Encoding for Video Captioning  [[paper]](http://openaccess.thecvf.com/content_CVPR_2019/papers/Aafaq_Spatio-Temporal_Dynamics_and_Semantic_Attribute_Enriched_Visual_Encoding_for_Video_CVPR_2019_paper.pdf)  
+-  Streamlined Dense Video Captioning.  [[paper]](http://openaccess.thecvf.com/content_CVPR_2019/papers/Mun_Streamlined_Dense_Video_Captioning_CVPR_2019_paper.pdf)  
+-  Grounded Video Description. [[paper]](http://openaccess.thecvf.com/content_CVPR_2019/papers/Zhou_Grounded_Video_Description_CVPR_2019_paper.pdf)  
+-  Adversarial Inference for Multi-Sentence Video Description.  [[paper]](http://openaccess.thecvf.com/content_CVPR_2019/papers/Park_Adversarial_Inference_for_Multi-Sentence_Video_Description_CVPR_2019_paper.pdf)  
+-  Object-aware Aggregation with Bidirectional Temporal Graph for Video Captioning. [[paper]](http://openaccess.thecvf.com/content_CVPR_2019/papers/Zhang_Object-Aware_Aggregation_With_Bidirectional_Temporal_Graph_for_Video_Captioning_CVPR_2019_paper.pdf)  
+-  Memory-Attended Recurrent Network for Video Captioning. [[paper]](http://openaccess.thecvf.com/content_CVPR_2019/papers/Pei_Memory-Attended_Recurrent_Network_for_Video_Captioning_CVPR_2019_paper.pdf)  
+-  Spatio-Temporal Dynamics and Semantic Attribute Enriched Visual Encoding for Video Captioning. [[paper]](http://openaccess.thecvf.com/content_CVPR_2019/papers/Aafaq_Spatio-Temporal_Dynamics_and_Semantic_Attribute_Enriched_Visual_Encoding_for_Video_CVPR_2019_paper.pdf)  
    
 
 #### AAAI 2019
@@ -408,6 +403,8 @@ A curated list of **Visual Captioning** and related area.
 - Bottom-Up and Top-Down Attention for Image Captioning and Visual Question Answering. [[paper]](http://openaccess.thecvf.com/content_cvpr_2018/html/Anderson_Bottom-Up_and_Top-Down_CVPR_2018_paper.html)  [[code]](https://github.com/peteanderson80/bottom-up-attention) 
 - Neural Baby Talk. [[paper]](https://arxiv.org/pdf/1803.09845.pdf) 
 - GroupCap: Group-Based Image Captioning With Structured Relevance and Diversity Constraints. [[paper]](https://openaccess.thecvf.com/content_cvpr_2018/papers/Chen_GroupCap_Group-Based_Image_CVPR_2018_paper.pdf)
+##### Video Captioning
+- Reconstruction Network for Video Captioning. [[paper]](https://arxiv.org/pdf/1803.11438.pdf) [[code]](https://github.com/hobincar/reconstruction-network-for-video-captioning)
 ### 2017
 #### ICCV 2017 
 ##### Image Captioning
