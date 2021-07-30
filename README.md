@@ -265,10 +265,10 @@ A curated list of **Visual Captioning** and related area.
 ### 2019
 
 #### NIPS 2019 ####
-##### Visual Captioning
-- Adaptively Aligned Image Captioning via Adaptive Attention Time  [[paper]](http://papers.nips.cc/paper/by-source-2019-4799) [[code]](https://github.com/husthuaan/AAT)
-- Image Captioning: Transforming Objects into Words  [[paper]](http://papers.nips.cc/paper/by-source-2019-5963) [[code]](https://github.com/yahoo/object_relation_transformer)
-- Variational Structured Semantic Inference for Diverse Image Captioning  [[paper]](http://papers.nips.cc/paper/by-source-2019-1113)  
+##### Image Captioning
+- Adaptively Aligned Image Captioning via Adaptive Attention Time.  [[paper]](http://papers.nips.cc/paper/by-source-2019-4799) [[code]](https://github.com/husthuaan/AAT)
+- Image Captioning: Transforming Objects into Words.  [[paper]](http://papers.nips.cc/paper/by-source-2019-5963) [[code]](https://github.com/yahoo/object_relation_transformer)
+- Variational Structured Semantic Inference for Diverse Image Captioning.  [[paper]](http://papers.nips.cc/paper/by-source-2019-1113)  
   
 
 #### ICCV 2019
