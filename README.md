@@ -45,6 +45,9 @@ A curated list of **Visual Captioning** and related area.
 
 ## Papers
 ### 2021
+#### ACMMM 2021
+##### Image Captioning
+- Distributed Attention for Grounded Image Captioning. [[paper]](https://arxiv.org/pdf/2108.01056.pdf)
 #### ACL 2021
 ##### Image Captioning
 - Writing by Memorizing: Hierarchical Retrieval-based Medical Report Generation. [[paper]](https://arxiv.org/pdf/2106.06471.pdf)   
