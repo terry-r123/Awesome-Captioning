@@ -11,6 +11,8 @@ A curated list of **Visual Captioning** and related area.
 ## Table of Contents
   * [Papers](#papers)
     * [2021](#2021)
+        - [ACM MM 2021](#ACMMM-2021)
+        - [Interspeech 2021](#Interspeech-2021)
         - [ACL 2021](#ACL-2021)
         - [IJCAI 2021](#IJCAI-2021)
         - [NAACL 2021](#NAACL-2021)
@@ -48,6 +50,13 @@ A curated list of **Visual Captioning** and related area.
 #### ACMMM 2021
 ##### Image Captioning
 - Distributed Attention for Grounded Image Captioning. [[paper]](https://arxiv.org/pdf/2108.01056.pdf)
+##### Text Captioning
+- Question-controlled Text-aware Image Captioning. [[paper]](https://arxiv.org/pdf/2108.02059.pdf)
+
+#### Interspeech 2021
+##### Video Captioning
+- Optimizing Latency for Online Video CaptioningUsing Audio-Visual Transformers. [[paper]](https://arxiv.org/pdf/2108.02147.pdf)
+
 #### ACL 2021
 ##### Image Captioning
 - Writing by Memorizing: Hierarchical Retrieval-based Medical Report Generation. [[paper]](https://arxiv.org/pdf/2106.06471.pdf)   
