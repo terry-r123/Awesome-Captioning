@@ -50,6 +50,7 @@ A curated list of **Visual Captioning** and related area.
 #### ACMMM 2021
 ##### Image Captioning
 - Distributed Attention for Grounded Image Captioning. [[paper]](https://arxiv.org/pdf/2108.01056.pdf)
+- Dual Graph Convolutional Networks with Transformer and Curriculum Learning for Image Captioning. [[paper]](https://arxiv.org/pdf/2108.02366.pdf) [[code]](https://github.com/Unbear430/DGCN-for-image-captioning)
 ##### Text Captioning
 - Question-controlled Text-aware Image Captioning. [[paper]](https://arxiv.org/pdf/2108.02059.pdf)
 
