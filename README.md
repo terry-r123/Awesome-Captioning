@@ -53,6 +53,8 @@ A curated list of **Visual Captioning** and related area.
 - Dual Graph Convolutional Networks with Transformer and Curriculum Learning for Image Captioning. [[paper]](https://arxiv.org/pdf/2108.02366.pdf) [[code]](https://github.com/Unbear430/DGCN-for-image-captioning)
 ##### Text Captioning
 - Question-controlled Text-aware Image Captioning. [[paper]](https://arxiv.org/pdf/2108.02059.pdf)
+##### Video Captioning
+- Hybrid Reasoning Network for Video-based Commonsense Captioning. [[paper]](https://arxiv.org/ftp/arxiv/papers/2108/2108.02365.pdf) [[code]]()
 
 #### Interspeech 2021
 ##### Video Captioning
@@ -76,7 +78,7 @@ A curated list of **Visual Captioning** and related area.
 - Hierarchical Context-aware Network for Dense Video Event Captioning. 
 - Video Paragraph Captioning as a Text Summarization Task.
 
-[comment]: <> (- O2NA: An Object-Oriented Non-Autoregressive Approach for Controllable Video Captioning.)
+[comment]: <> (- O2NA: An Object-Oriented Non-Autoregressive Approach for Controllable Video Captioning. [[paper]](https://arxiv.org/pdf/2108.02359.pdf)
 
 #### IJCAI 2021
 ##### Image Captioning
@@ -451,7 +453,7 @@ A curated list of **Visual Captioning** and related area.
 #### CVPR 2015 
 ##### Image Captioning
 - Show and Tell: A Neural Image Caption Generator. [[paper]](https://arxiv.org/pdf/1411.4555.pdf)   
-
+- Deep Visual-Semantic Alignments for Generating Image Descriptions. [[paper]](https://arxiv.org/pdf/1412.2306.pdf) [[code]](https://github.com/karpathy/neuraltalk2)
 #### ICLR 2015 
 ##### Image Captioning
 - Deep Captioning with Multimodal Recurrent Neural Networks (m-RNN). [[paper]](https://arxiv.org/pdf/1412.6632.pdf)   
