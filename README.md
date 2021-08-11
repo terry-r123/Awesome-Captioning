@@ -55,6 +55,7 @@ A curated list of **Visual Captioning** and related area.
 - Question-controlled Text-aware Image Captioning. [[paper]](https://arxiv.org/pdf/2108.02059.pdf)
 ##### Video Captioning
 - Hybrid Reasoning Network for Video-based Commonsense Captioning. [[paper]](https://arxiv.org/ftp/arxiv/papers/2108/2108.02365.pdf) [[code]]()
+- Discriminative Latent Semantic Graph for Video Captioning. [[paper]](https://arxiv.org/pdf/2108.03662.pdf) [[code]](https://github.com/baiyang4/D-LSG-Video-Caption)
 
 #### Interspeech 2021
 ##### Video Captioning
@@ -72,13 +73,12 @@ A curated list of **Visual Captioning** and related area.
 
 [comment]: <> (- IgSEG: Image-guided Story Ending Generation.)
 [comment]: <> (- Semantic Relation-aware Difference Representation Learning for Change Captioning.)
-
 [comment]: <> (- Contrastive Attention for Automatic Chest X-ray Report Generation. [[paper]]&#40;https://arxiv.org/pdf/2106.06965.pdf&#41;)
 ##### Video Captioning
 - Hierarchical Context-aware Network for Dense Video Event Captioning. 
 - Video Paragraph Captioning as a Text Summarization Task.
 
-[comment]: <> (- O2NA: An Object-Oriented Non-Autoregressive Approach for Controllable Video Captioning. [[paper]](https://arxiv.org/pdf/2108.02359.pdf)
+[comment]: <> (- O2NA: An Object-Oriented Non-Autoregressive Approach for Controllable Video Captioning. [[paper]]&#40;https://arxiv.org/pdf/2108.02359.pdf&#41;)
 
 #### IJCAI 2021
 ##### Image Captioning
@@ -431,7 +431,7 @@ A curated list of **Visual Captioning** and related area.
 - When to Look: Adaptive Attention via A Visual Sentinel for Image Captioning. [[paper]](https://arxiv.org/pdf/1612.01887.pdf) [[code]](https://github.com/jiasenlu/AdaptiveAttention)
 - Self-critical Sequence Training for Image Captioning. [[paper]](https://openaccess.thecvf.com/content_cvpr_2017/papers/Rennie_Self-Critical_Sequence_Training_CVPR_2017_paper.pdf)
 
-##### TPAMI 2017
+#### TPAMI 2017
 ##### Image Captioning
 - Aligning Where to See and What to Tell: Image Captioning with Region-Based Attention and Scene-Specific Contexts. [[paper]](https://ieeexplore.ieee.org/abstract/document/7792748) [[code]](https://github.com/fukun07/neural-image-captioning)
 - BreakingNews: Article Annotation by Image and Text Processing. [[paper]](https://arxiv.org/pdf/1603.07141.pdf)
