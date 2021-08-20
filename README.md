@@ -40,8 +40,16 @@ A curated list of **Visual Captioning** and related area.
         * [ECCV 2018](#ECCV-2018)
         * [ACL 2018](#ACL-2018)
         * [CVPR 2018](#CVPR-2018)
+     * [2017](#2017)
+        * [ICCV 2017](#ICCV-2017)
+        * [CVPR 2017](#CVPR-2017)
+        * [TPAMI 2017](#TPAMI-2017)
+     * [2016](#2016)
+        * [CVPR 2016](#CVPR-2016)
+        * [TPAMI 2016](#TPAMI-2016)
      * [2015](#2015)
         * [ICML 2015](#ICML-2015)
+        * [ICCV 2015](#ICCV-2015)
         * [CVPR 2015](#CVPR-2015)
         * [ICLR 2015](#ICLR-2015)
   * [Reference and Acknowledgement](#reference-and-acknowledgement)
@@ -418,6 +426,9 @@ A curated list of **Visual Captioning** and related area.
 - Attacking Visual Language Grounding with Adversarial Examples: A Case Study on Neural Image Captioning. [[paper]](https://arxiv.org/pdf/1712.02051.pdf) 
 - Conceptual Captions: A Cleaned, Hypernymed, Image Alt-text Dataset For Automatic Image Captioning. [[paper]](https://aclanthology.org/P18-1238.pdf) [[code]](https://github.com/google-research-datasets/conceptual-captions)
 
+#### IJCAI 2018
+##### Image Captioning
+- Show and Tell More: Topic-Oriented Multi-Sentence Image Captioning. [[paper]](https://www.ijcai.org/proceedings/2018/0592.pdf)
 #### CVPR 2018 ####
 ##### Image Captioning
 - Bottom-Up and Top-Down Attention for Image Captioning and Visual Question Answering. [[paper]](http://openaccess.thecvf.com/content_cvpr_2018/html/Anderson_Bottom-Up_and_Top-Down_CVPR_2018_paper.html)  [[code]](https://github.com/peteanderson80/bottom-up-attention) 
@@ -435,16 +446,18 @@ A curated list of **Visual Captioning** and related area.
 - SCA-CNN: Spatial and Channel-wise Attention in Convolutional Networks for Image Captioning. [[paper]](https://openaccess.thecvf.com/content_cvpr_2017/papers/Chen_SCA-CNN_Spatial_and_CVPR_2017_paper.pdf)  [[code]](https://github.com/zjuchenlong/sca-cnn.cvpr17) 
 - When to Look: Adaptive Attention via A Visual Sentinel for Image Captioning. [[paper]](https://arxiv.org/pdf/1612.01887.pdf) [[code]](https://github.com/jiasenlu/AdaptiveAttention)
 - Self-critical Sequence Training for Image Captioning. [[paper]](https://openaccess.thecvf.com/content_cvpr_2017/papers/Rennie_Self-Critical_Sequence_Training_CVPR_2017_paper.pdf)
-
+- Semantic Compositional Networks for Visual Captioning. [[paper]](https://arxiv.org/pdf/1611.08002.pdf) [[code]](https://github.com/zhegan27/Semantic_Compositional_Nets)
 #### TPAMI 2017
 ##### Image Captioning
-- Aligning Where to See and What to Tell: Image Captioning with Region-Based Attention and Scene-Specific Contexts. [[paper]](https://ieeexplore.ieee.org/abstract/document/7792748) [[code]](https://github.com/fukun07/neural-image-captioning)
 - BreakingNews: Article Annotation by Image and Text Processing. [[paper]](https://arxiv.org/pdf/1603.07141.pdf)
 ### 2016
 #### CVPR 2016
 ##### Image Captioning
 - Image Captioning with Semantic Attention. [[paper]](https://openaccess.thecvf.com/content_cvpr_2016/papers/You_Image_Captioning_With_CVPR_2016_paper.pdf) [[code]](https://github.com/chapternewscu/image-captioning-with-semantic-attention)
 - Learning Deep Representations of Fine-grained Visual Descriptions. [[paper]](https://arxiv.org/pdf/1605.05395.pdf) [[code]](https://github.com/reedscot/cvpr2016)
+#### TPAMI 2016
+##### Image Captioning
+- Aligning Where to See and What to Tell: Image Captioning with Region-Based Attention and Scene-Specific Contexts. [[paper]](https://ieeexplore.ieee.org/abstract/document/7792748) [[code]](https://github.com/fukun07/neural-image-captioning)
 
 ### 2015
 #### ICML 2015 
