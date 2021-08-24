@@ -441,7 +441,7 @@ A curated list of **Visual Captioning** and related area.
 #### ICCV 2017 
 ##### Image Captioning
 - Boosting Image Captioning with Attributes. [[paper]](https://openaccess.thecvf.com/content_ICCV_2017/papers/Yao_Boosting_Image_Captioning_ICCV_2017_paper.pdf)
-
+- Show, Adapt and Tell: Adversarial Training of Cross-domain Image Captioner. [[paper]](https://openaccess.thecvf.com/content_ICCV_2017/papers/Chen_Show_Adapt_and_ICCV_2017_paper.pdf) [[code]](https://github.com/tsenghungchen/show-adapt-and-tell)
 #### CVPR 2017 
 ##### Image Captioning
 - SCA-CNN: Spatial and Channel-wise Attention in Convolutional Networks for Image Captioning. [[paper]](https://openaccess.thecvf.com/content_cvpr_2017/papers/Chen_SCA-CNN_Spatial_and_CVPR_2017_paper.pdf)  [[code]](https://github.com/zjuchenlong/sca-cnn.cvpr17) 
