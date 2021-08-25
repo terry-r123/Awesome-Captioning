@@ -9,7 +9,8 @@ A curated list of **Visual Captioning** and related area.
 
 
 ## Table of Contents
-  * [Papers](#papers)
+  * [Survey Papers](#survey-papers)
+  * [Research Papers](#reasearch-papers)
     * [2021](#2021)
         - [ICCV 2021](#ICCV-2021)
         - [ACM MM 2021](#ACMMM-2021)
@@ -52,11 +53,18 @@ A curated list of **Visual Captioning** and related area.
         * [ICCV 2015](#ICCV-2015)
         * [CVPR 2015](#CVPR-2015)
         * [ICLR 2015](#ICLR-2015)
+  * [Dataset](#dataset)  
+  * [Popular Codebase](#popular-codebase)    
   * [Reference and Acknowledgement](#reference-and-acknowledgement)
+## Survey Papers
+### 2021
+- From Show to Tell: A Survey on Image Captioning. [[paper]](https://arxiv.org/pdf/2107.06912.pdf)
 
-## Papers
+## Research Papers
 ### 2021
 #### ICCV 2021
+##### Image Captioning
+- Auto-Parsing Network for Image Captioning and Visual Question Answering. [[paper]](https://arxiv.org/pdf/2108.10568.pdf)
 ##### Video Captioning
 - End-to-End Dense Video Captioning with Parallel Decoding. [[paper]](https://arxiv.org/pdf/2108.07781.pdf)
 
@@ -477,7 +485,16 @@ A curated list of **Visual Captioning** and related area.
 ##### Image Captioning
 - Deep Captioning with Multimodal Recurrent Neural Networks (m-RNN). [[paper]](https://arxiv.org/pdf/1412.6632.pdf)   
 
+## Dataset
+- MSCOCO
+- Flickr30K
+- Flickr8K
+- VizWiz
+
+## Popular Codebase
+- [ruotianluo/ImageCaptioning.pytorch](https://github.com/ruotianluo/ImageCaptioning.pytorch)
+
 ## Reference and Acknowledgement
-* [**awesome-image-captioning**](https://github.com/zhjohnchan/awesome-image-captioning) from [Zhihong Chen](https://github.com/zhjohnchan)
+- [awesome-image-captioning](https://github.com/zhjohnchan/awesome-image-captioning) from [Zhihong Chen](https://github.com/zhjohnchan)
 
 Really appreciate for there contributions in this area.
