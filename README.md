@@ -65,6 +65,7 @@ A curated list of **Visual Captioning** and related area.
 #### ICCV 2021
 ##### Image Captioning
 - Auto-Parsing Network for Image Captioning and Visual Question Answering. [[paper]](https://arxiv.org/pdf/2108.10568.pdf)
+- Similar Scenes arouse Similar Emotions: Parallel Data Augmentation for Stylized Image Captioning. [[paper]](https://arxiv.org/pdf/2108.11912.pdf)
 ##### Video Captioning
 - End-to-End Dense Video Captioning with Parallel Decoding. [[paper]](https://arxiv.org/pdf/2108.07781.pdf)
 
