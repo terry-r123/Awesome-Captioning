@@ -62,6 +62,10 @@ A curated list of **Visual Captioning** and related area.
 
 ## Research Papers
 ### 2021
+#### EMNLP 2021
+##### Image Captioning
+- Journalistic Guidelines Aware News Image Captioning. [[paper]](https://arxiv.org/pdf/2109.02865.pdf)
+- QACE: Asking Questions to Evaluate an Image Caption. [[paper]](https://arxiv.org/pdf/2108.12560.pdf) (Findings)
 #### ICCV 2021
 ##### Image Captioning
 - Auto-Parsing Network for Image Captioning and Visual Question Answering. [[paper]](https://arxiv.org/pdf/2108.10568.pdf)
@@ -79,7 +83,7 @@ A curated list of **Visual Captioning** and related area.
 ##### Video Captioning
 - Hybrid Reasoning Network for Video-based Commonsense Captioning. [[paper]](https://arxiv.org/ftp/arxiv/papers/2108/2108.02365.pdf) [[code]]()
 - Discriminative Latent Semantic Graph for Video Captioning. [[paper]](https://arxiv.org/pdf/2108.03662.pdf) [[code]](https://github.com/baiyang4/D-LSG-Video-Caption)
-
+- Sensor-Augmented Egocentric-Video Captioning with Dynamic Modal Attention. [[paper]](https://arxiv.org/pdf/2109.02955.pdf)
 #### Interspeech 2021
 ##### Video Captioning
 - Optimizing Latency for Online Video CaptioningUsing Audio-Visual Transformers. [[paper]](https://arxiv.org/pdf/2108.02147.pdf)
@@ -461,6 +465,9 @@ A curated list of **Visual Captioning** and related area.
 ##### Image Captioning
 - BreakingNews: Article Annotation by Image and Text Processing. [[paper]](https://arxiv.org/pdf/1603.07141.pdf)
 ### 2016
+
+#### ECCV 2016
+- Generating Visual Explanations. [[paper]](https://arxiv.org/pdf/1603.08507.pdf) [[code]](https://github.com/LisaAnne/ECCV2016)
 #### CVPR 2016
 ##### Image Captioning
 - Image Captioning with Semantic Attention. [[paper]](https://openaccess.thecvf.com/content_cvpr_2016/papers/You_Image_Captioning_With_CVPR_2016_paper.pdf) [[code]](https://github.com/chapternewscu/image-captioning-with-semantic-attention)
