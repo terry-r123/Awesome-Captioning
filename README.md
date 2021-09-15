@@ -12,6 +12,7 @@ A curated list of **Visual Captioning** and related area.
   * [Survey Papers](#survey-papers)
   * [Research Papers](#reasearch-papers)
     * [2021](#2021)
+        - [EMNLP 2021](#EMNLP-2021)
         - [ICCV 2021](#ICCV-2021)
         - [ACM MM 2021](#ACMMM-2021)
         - [Interspeech 2021](#Interspeech-2021)
