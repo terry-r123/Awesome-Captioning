@@ -67,10 +67,12 @@ A curated list of **Visual Captioning** and related area.
 ##### Image Captioning
 - Journalistic Guidelines Aware News Image Captioning. [[paper]](https://arxiv.org/pdf/2109.02865.pdf)
 - QACE: Asking Questions to Evaluate an Image Caption. [[paper]](https://arxiv.org/pdf/2108.12560.pdf) (Findings)
+- COSMic: A Coherence-Aware Generation Metric for Image Descriptions. [[paper]](https://arxiv.org/pdf/2109.05281.pdf) (Findings)
 #### ICCV 2021
 ##### Image Captioning
 - Auto-Parsing Network for Image Captioning and Visual Question Answering. [[paper]](https://arxiv.org/pdf/2108.10568.pdf)
 - Similar Scenes arouse Similar Emotions: Parallel Data Augmentation for Stylized Image Captioning. [[paper]](https://arxiv.org/pdf/2108.11912.pdf)
+- Explain Me the Painting: Multi-Topic Knowledgeable Art Description Generation. [[paper]](https://arxiv.org/pdf/2109.05743.pdf)
 ##### Video Captioning
 - End-to-End Dense Video Captioning with Parallel Decoding. [[paper]](https://arxiv.org/pdf/2108.07781.pdf)
 
