@@ -470,6 +470,7 @@ A curated list of **Visual Captioning** and related area.
 ### 2016
 
 #### ECCV 2016
+- SPICE: Semantic Propositional Image Caption Evaluation. [[paper]](https://arxiv.org/pdf/1607.08822.pdf) [[code]](https://github.com/peteanderson80/SPICE)
 - Generating Visual Explanations. [[paper]](https://arxiv.org/pdf/1603.08507.pdf) [[code]](https://github.com/LisaAnne/ECCV2016)
 #### CVPR 2016
 ##### Image Captioning
