@@ -476,6 +476,7 @@ A curated list of **Visual Captioning** and related area.
 ##### Image Captioning
 - Image Captioning with Semantic Attention. [[paper]](https://openaccess.thecvf.com/content_cvpr_2016/papers/You_Image_Captioning_With_CVPR_2016_paper.pdf) [[code]](https://github.com/chapternewscu/image-captioning-with-semantic-attention)
 - Learning Deep Representations of Fine-grained Visual Descriptions. [[paper]](https://arxiv.org/pdf/1605.05395.pdf) [[code]](https://github.com/reedscot/cvpr2016)
+- Deep Compositional Captioning: Describing Novel Object Categories without Paired Training Data. [[paper]](https://arxiv.org/pdf/1511.05284.pdf) [[code]](https://github.com/LisaAnne/DCC)
 #### TPAMI 2016
 ##### Image Captioning
 - Aligning Where to See and What to Tell: Image Captioning with Region-Based Attention and Scene-Specific Contexts. [[paper]](https://ieeexplore.ieee.org/abstract/document/7792748) [[code]](https://github.com/fukun07/neural-image-captioning)
@@ -493,6 +494,7 @@ A curated list of **Visual Captioning** and related area.
 ##### Image Captioning
 - Show and Tell: A Neural Image Caption Generator. [[paper]](https://arxiv.org/pdf/1411.4555.pdf)   
 - Deep Visual-Semantic Alignments for Generating Image Descriptions. [[paper]](https://arxiv.org/pdf/1412.2306.pdf) [[code]](https://github.com/karpathy/neuraltalk2)
+- CIDEr: Consensus-based Image Description Evaluation. [[paper]](https://arxiv.org/pdf/1411.5726.pdf) [[cider]](https://github.com/vrama91/cider)
 #### ICLR 2015 
 ##### Image Captioning
 - Deep Captioning with Multimodal Recurrent Neural Networks (m-RNN). [[paper]](https://arxiv.org/pdf/1412.6632.pdf)   
