@@ -77,13 +77,20 @@ A curated list of **Visual Captioning** and related area.
 - Journalistic Guidelines Aware News Image Captioning. [[paper]](https://arxiv.org/pdf/2109.02865.pdf)
 - QACE: Asking Questions to Evaluate an Image Caption. [[paper]](https://arxiv.org/pdf/2108.12560.pdf) (Findings)
 - COSMic: A Coherence-Aware Generation Metric for Image Descriptions. [[paper]](https://arxiv.org/pdf/2109.05281.pdf) (Findings)
+
 #### ICCV 2021
 ##### Image Captioning
 - Auto-Parsing Network for Image Captioning and Visual Question Answering. [[paper]](https://arxiv.org/pdf/2108.10568.pdf)
 - Similar Scenes arouse Similar Emotions: Parallel Data Augmentation for Stylized Image Captioning. [[paper]](https://arxiv.org/pdf/2108.11912.pdf)
 - Explain Me the Painting: Multi-Topic Knowledgeable Art Description Generation. [[paper]](https://arxiv.org/pdf/2109.05743.pdf)
+- Partial Off-Policy Learning: Balance Accuracy and Diversity for Human-Oriented Image Captioning. [[paper]](https://openaccess.thecvf.com/content/ICCV2021/papers/Shi_Partial_Off-Policy_Learning_Balance_Accuracy_and_Diversity_for_Human-Oriented_Image_ICCV_2021_paper.pdf)
+- Topic Scene Graph Generation by Attention Distillation from Caption. [[paper]](https://openaccess.thecvf.com/content/ICCV2021/papers/Wang_Topic_Scene_Graph_Generation_by_Attention_Distillation_From_Caption_ICCV_2021_paper.pdf)
+- Understanding and Evaluating Racial Biases in Image Captioning. [[paper]](https://openaccess.thecvf.com/content/ICCV2021/papers/Zhao_Understanding_and_Evaluating_Racial_Biases_in_Image_Captioning_ICCV_2021_paper.pdf) [[code]](https://github.com/princetonvisualai/imagecaptioning-bias)
+- In Defense of Scene Graphs for Image Captioning. [[paper]](https://openaccess.thecvf.com/content/ICCV2021/papers/Nguyen_In_Defense_of_Scene_Graphs_for_Image_Captioning_ICCV_2021_paper.pdf) [[code]](https://github.com/Kien085/SG2Caps)
+- Viewpoint-Agnostic Change Captioning with Cycle Consistency. [[paper]](https://openaccess.thecvf.com/content/ICCV2021/papers/Kim_Viewpoint-Agnostic_Change_Captioning_With_Cycle_Consistency_ICCV_2021_paper.pdf)
 ##### Video Captioning
 - End-to-End Dense Video Captioning with Parallel Decoding. [[paper]](https://arxiv.org/pdf/2108.07781.pdf)
+- Motion Guided Region Message Passing for Video Captioning. [[paper]](https://openaccess.thecvf.com/content/ICCV2021/papers/Chen_Motion_Guided_Region_Message_Passing_for_Video_Captioning_ICCV_2021_paper.pdf)
 
 #### ACMMM 2021
 ##### Image Captioning
