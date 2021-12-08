@@ -12,6 +12,7 @@ A curated list of **Visual Captioning** and related area.
   * [Survey Papers](#survey-papers)
   * [Research Papers](#reasearch-papers)
     * [2021](#2021)
+        - [NIPS 2021](NIPS-2021)
         - [EMNLP 2021](#EMNLP-2021)
         - [ICCV 2021](#ICCV-2021)
         - [ACM MM 2021](#ACMMM-2021)
@@ -63,6 +64,14 @@ A curated list of **Visual Captioning** and related area.
 
 ## Research Papers
 ### 2021
+#### NIPS 2021
+##### Image Captioning
+- Auto-Encoding Knowledge Graph for Unsupervised Medical Report Generation. [[paper]](https://openreview.net/pdf?id=nIL7Q-p7-Sh)
+- FFA-IR: Towards an Explainable and Reliable Medical Report Generation Benchmark. [[paper]](https://datasets-benchmarks-proceedings.neurips.cc/paper/2021/file/35f4a8d465e6e1edc05f3d8ab658c551-Paper-round2.pdf) [[[code]](https://github.com/mlii0117/FFA-IR) 
+##### Video Captioning
+- Multi-modal Dependency Tree for Video Captioning. [[paper]](https://openreview.net/pdf?id=sW40wkwfsZp)
+
+
 #### EMNLP 2021
 ##### Image Captioning
 - Journalistic Guidelines Aware News Image Captioning. [[paper]](https://arxiv.org/pdf/2109.02865.pdf)
