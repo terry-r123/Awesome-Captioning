@@ -67,7 +67,7 @@ A curated list of **Visual Captioning** and related area.
 #### NIPS 2021
 ##### Image Captioning
 - Auto-Encoding Knowledge Graph for Unsupervised Medical Report Generation. [[paper]](https://openreview.net/pdf?id=nIL7Q-p7-Sh)
-- FFA-IR: Towards an Explainable and Reliable Medical Report Generation Benchmark. [[paper]](https://datasets-benchmarks-proceedings.neurips.cc/paper/2021/file/35f4a8d465e6e1edc05f3d8ab658c551-Paper-round2.pdf) [[[code]](https://github.com/mlii0117/FFA-IR) 
+- FFA-IR: Towards an Explainable and Reliable Medical Report Generation Benchmark. [[paper]](https://datasets-benchmarks-proceedings.neurips.cc/paper/2021/file/35f4a8d465e6e1edc05f3d8ab658c551-Paper-round2.pdf) [[code]](https://github.com/mlii0117/FFA-IR) 
 ##### Video Captioning
 - Multi-modal Dependency Tree for Video Captioning. [[paper]](https://openreview.net/pdf?id=sW40wkwfsZp)
 
