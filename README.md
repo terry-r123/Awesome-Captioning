@@ -74,7 +74,13 @@ A curated list of **Visual Captioning** and related area.
 
 #### EMNLP 2021
 ##### Image Captioning
+- Visual News: Benchmark and Challenges in News Image Captioning. [[paper]](https://aclanthology.org/2021.emnlp-main.542.pdf) [[code]](https://github.com/FuxiaoLiu/VisualNews-Repository)
+- R3Net:Relation-embedded Representation Reconstruction Network for Change Captioning. [[paper]](https://arxiv.org/pdf/2110.10328.pdf) [[code]](https://github.com/tuyunbin/R3Net)
+- CLIPScore: A Reference-free Evaluation Metric for Image Captioning. [[paper]](https://aclanthology.org/2021.emnlp-main.595.pdf)
 - Journalistic Guidelines Aware News Image Captioning. [[paper]](https://arxiv.org/pdf/2109.02865.pdf)
+- Understanding Guided Image Captioning Performance across Domains. [[paper]](https://aclanthology.org/2021.conll-1.14.pdf) [[code]](https://github.com/google-research-datasets/T2-Guiding) (CoNLL)
+- Language Resource Efficient Learning for Captioning. [[paper]](https://aclanthology.org/2021.findings-emnlp.162.pdf) (Findings)
+- Retrieval, Analogy, and Composition: A framework for Compositional Generalization in Image Captioning. [[paper]](https://aclanthology.org/2021.findings-emnlp.171.pdf) (Findings)
 - QACE: Asking Questions to Evaluate an Image Caption. [[paper]](https://arxiv.org/pdf/2108.12560.pdf) (Findings)
 - COSMic: A Coherence-Aware Generation Metric for Image Descriptions. [[paper]](https://arxiv.org/pdf/2109.05281.pdf) (Findings)
 
@@ -271,7 +277,7 @@ A curated list of **Visual Captioning** and related area.
 #### ACL 2020
 ##### Image Captioning
 - Clue: Cross-modal Coherence Modeling for Caption Generation. [[paper]](https://www.aclweb.org/anthology/2020.acl-main.583.pdf) 
-- Improving Image Captioning Evaluation by Considering Inter References Variance. [[paper]](https://www.aclweb.org/anthology/2020.acl-main.93.pdf) 
+- Improving Image Captioning Evaluation by Considering Inter References Variance. [[paper]](https://www.aclweb.org/anthology/2020.acl-main.93.pdf) [[code]](https://github.com/ck0123/improved-bertscore-for-image-captioning-evaluation)
 - Improving Image Captioning with Better Use of Caption. [[paper]](https://www.aclweb.org/anthology/2020.acl-main.664.pdf)  [[code]](https://github.com/Gitsamshi/WeakVRD-Captioning)
 ##### Video Captioning
 - MART: Memory-Augmented Recurrent Transformer for Coherent Video Paragraph Captioning. [[paper]](https://www.aclweb.org/anthology/2020.acl-main.233.pdf)  [[code]](https://github.com/jayleicn/recurrent-transformer)
