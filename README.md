@@ -96,7 +96,7 @@ A curated list of **Visual Captioning** and related area.
 - Viewpoint-Agnostic Change Captioning with Cycle Consistency. [[paper]](https://openaccess.thecvf.com/content/ICCV2021/papers/Kim_Viewpoint-Agnostic_Change_Captioning_With_Cycle_Consistency_ICCV_2021_paper.pdf)
 - Visual-Textual Attentive Semantic Consistency for Medical Report Generation. [[paper]](https://openaccess.thecvf.com/content/ICCV2021/papers/Zhou_Visual-Textual_Attentive_Semantic_Consistency_for_Medical_Report_Generation_ICCV_2021_paper.pdf)
 ##### Video Captioning
-- End-to-End Dense Video Captioning with Parallel Decoding. [[paper]](https://arxiv.org/pdf/2108.07781.pdf)
+- End-to-End Dense Video Captioning with Parallel Decoding. [[paper]](https://arxiv.org/pdf/2108.07781.pdf) [[code]](https://github.com/ttengwang/PDVC)
 - Motion Guided Region Message Passing for Video Captioning. [[paper]](https://openaccess.thecvf.com/content/ICCV2021/papers/Chen_Motion_Guided_Region_Message_Passing_for_Video_Captioning_ICCV_2021_paper.pdf)
 
 #### ACMMM 2021
