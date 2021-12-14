@@ -118,7 +118,7 @@ A curated list of **Visual Captioning** and related area.
 ##### Image Captioning
 - Writing by Memorizing: Hierarchical Retrieval-based Medical Report Generation. [[paper]](https://arxiv.org/pdf/2106.06471.pdf)   
 - Competence-based Multimodal Curriculum Learning for Medical Report Generation.
-- Control Image Captioning Spatially and Temporally. 
+- Control Image Captioning Spatially and Temporally. [[paper]](https://aclanthology.org/2021.acl-long.157.pdf)
 - SMURF: SeMantic and linguistic UndeRstanding Fusion for Caption Evaluation via Typicality Analysis. [[paper]](https://arxiv.org/pdf/2106.01444.pdf)   
 - Enhancing Descriptive Image Captioning with Natural Language Inference.
 - UMIC: An Unreferenced Metric for Image Captioning via Contrastive Learning. [[paper]](https://arxiv.org/pdf/2106.14019.pdf) [[code]](https://github.com/hwanheelee1993/UMIC)
