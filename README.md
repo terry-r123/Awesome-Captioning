@@ -107,9 +107,10 @@ A curated list of **Visual Captioning** and related area.
 ##### Text Captioning
 - Question-controlled Text-aware Image Captioning. [[paper]](https://arxiv.org/pdf/2108.02059.pdf)
 ##### Video Captioning
-- Hybrid Reasoning Network for Video-based Commonsense Captioning. [[paper]](https://arxiv.org/ftp/arxiv/papers/2108/2108.02365.pdf) [[code]]()
+- Hybrid Reasoning Network for Video-based Commonsense Captioning. [[paper]](https://arxiv.org/ftp/arxiv/papers/2108/2108.02365.pdf) 
 - Discriminative Latent Semantic Graph for Video Captioning. [[paper]](https://arxiv.org/pdf/2108.03662.pdf) [[code]](https://github.com/baiyang4/D-LSG-Video-Caption)
 - Sensor-Augmented Egocentric-Video Captioning with Dynamic Modal Attention. [[paper]](https://arxiv.org/pdf/2109.02955.pdf)
+- CLIP4Caption: CLIP for Video Caption. [[paper]](https://arxiv.org/pdf/2110.06615.pdf)
 #### Interspeech 2021
 ##### Video Captioning
 - Optimizing Latency for Online Video CaptioningUsing Audio-Visual Transformers. [[paper]](https://arxiv.org/pdf/2108.02147.pdf)
