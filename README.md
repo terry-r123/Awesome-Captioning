@@ -63,6 +63,17 @@ A curated list of **Visual Captioning** and related area.
 - From Show to Tell: A Survey on Image Captioning. [[paper]](https://arxiv.org/pdf/2107.06912.pdf)
 
 ## Research Papers
+### 2022
+#### arxiv 
+##### Image Captioning
+- Compact Bidirectional Transformer for Image Captioning. [[paper]](https://arxiv.org/pdf/2201.01984.pdf) [[code]](https://github.com/YuanEZhou/CBTrans)
+##### Video Captioning
+- Discourse Analysis for Evaluating Coherence in Video Paragraph Captions. [[paper]](https://arxiv.org/pdf/2201.06207.pdf)
+- Cross-modal Contrastive Distillation for Instructional Activity Anticipation. [[paper]](https://arxiv.org/pdf/2201.06734.pdf)
+- End-to-end Generative Pretraining for Multimodal Video Captioning. [[paper]](https://arxiv.org/pdf/2201.08264.pdf)
+#### AAAI 2022
+##### Image Captioning
+- Image Difference Captioning with Pre-training and Contrastive Learning. [[paper]](https://arxiv.org/pdf/2202.04298.pdf)
 ### 2021
 #### NIPS 2021
 ##### Image Captioning
