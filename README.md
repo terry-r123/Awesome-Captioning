@@ -11,6 +11,9 @@ A curated list of **Visual Captioning** and related area.
 ## Table of Contents
   * [Survey Papers](#survey-papers)
   * [Research Papers](#reasearch-papers)
+    * [2022](#2022)
+        - [arxiv 2022](arxiv-2022)
+        - [AAAI 2022](#AAAI-2022)
     * [2021](#2021)
         - [NIPS 2021](NIPS-2021)
         - [EMNLP 2021](#EMNLP-2021)
@@ -64,13 +67,17 @@ A curated list of **Visual Captioning** and related area.
 
 ## Research Papers
 ### 2022
-#### arxiv 
+#### arxiv 2022
 ##### Image Captioning
 - Compact Bidirectional Transformer for Image Captioning. [[paper]](https://arxiv.org/pdf/2201.01984.pdf) [[code]](https://github.com/YuanEZhou/CBTrans)
+- ViNTER: Image Narrative Generation with Emotion-Arc-Aware Transformer. [[paper]](https://arxiv.org/pdf/2202.07305.pdf)
+- I-Tuning: Tuning Language Models with Image for Caption Generation. [[paper]](https://arxiv.org/pdf/2202.06574.pdf)
+- CaMEL: Mean Teacher Learning for Image Captioning. [[paper]](https://arxiv.org/pdf/2202.10492.pdf) [[code]](https://github.com/aimagelab/camel)
 ##### Video Captioning
 - Discourse Analysis for Evaluating Coherence in Video Paragraph Captions. [[paper]](https://arxiv.org/pdf/2201.06207.pdf)
 - Cross-modal Contrastive Distillation for Instructional Activity Anticipation. [[paper]](https://arxiv.org/pdf/2201.06734.pdf)
 - End-to-end Generative Pretraining for Multimodal Video Captioning. [[paper]](https://arxiv.org/pdf/2201.08264.pdf)
+- Deep soccer captioning with transformer: dataset, semantics-related losses, and multi-level evaluation. [[paper]](https://arxiv.org/pdf/2202.05728.pdf) [[code]](https://sites.google.com/view/soccercaptioning)
 #### AAAI 2022
 ##### Image Captioning
 - Image Difference Captioning with Pre-training and Contrastive Learning. [[paper]](https://arxiv.org/pdf/2202.04298.pdf)
