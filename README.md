@@ -73,11 +73,21 @@ A curated list of **Visual Captioning** and related area.
 - ViNTER: Image Narrative Generation with Emotion-Arc-Aware Transformer. [[paper]](https://arxiv.org/pdf/2202.07305.pdf)
 - I-Tuning: Tuning Language Models with Image for Caption Generation. [[paper]](https://arxiv.org/pdf/2202.06574.pdf)
 - CaMEL: Mean Teacher Learning for Image Captioning. [[paper]](https://arxiv.org/pdf/2202.10492.pdf) [[code]](https://github.com/aimagelab/camel)
+- Unpaired Image Captioning by Image-level Weakly-Supervised Visual Concept Recognition. [[paper]](https://arxiv.org/pdf/2203.03195.pdf)
 ##### Video Captioning
 - Discourse Analysis for Evaluating Coherence in Video Paragraph Captions. [[paper]](https://arxiv.org/pdf/2201.06207.pdf)
 - Cross-modal Contrastive Distillation for Instructional Activity Anticipation. [[paper]](https://arxiv.org/pdf/2201.06734.pdf)
 - End-to-end Generative Pretraining for Multimodal Video Captioning. [[paper]](https://arxiv.org/pdf/2201.08264.pdf)
 - Deep soccer captioning with transformer: dataset, semantics-related losses, and multi-level evaluation. [[paper]](https://arxiv.org/pdf/2202.05728.pdf) [[code]](https://sites.google.com/view/soccercaptioning)
+- Dual-Level Decoupled Transformer for Video Captioning. [[paper]](https://arxiv.org/pdf/2205.03039.pdf)
+- Attract me to Buy: Advertisement Copywriting Generation with Multimodal Multi-structured Information. [[paper]](https://arxiv.org/pdf/2205.03534.pdf) [[code]](https://e-mmad.github.io/e-mmad.net/index.html)
+#### IJCAI 2022
+- Spatiality-guided Transformer for 3D Dense Captioning on Point Clouds. [[paper]](https://arxiv.org/pdf/2204.10688.pdf)
+#### CVPR 2022
+- X-Trans2Cap: Cross-Modal Knowledge Transfer using Transformer for 3D Dense Captioning. [[paper]](https://arxiv.org/pdf/2203.00843.pdf)
+- Beyond a Pre-Trained Object Detector: Cross-Modal Textual and Visual Context for Image Captioning. [[paper]](https://arxiv.org/pdf/2205.04363.pdf)
+##### Video Captioning
+- What's in a Caption? Dataset-Specific Linguistic Diversity and Its Effect on Visual Description Models and Metrics. [[paper]](https://arxiv.org/pdf/2205.06253.pdf) (Workshop)
 #### AAAI 2022
 ##### Image Captioning
 - Image Difference Captioning with Pre-training and Contrastive Learning. [[paper]](https://arxiv.org/pdf/2202.04298.pdf)
@@ -113,6 +123,7 @@ A curated list of **Visual Captioning** and related area.
 - In Defense of Scene Graphs for Image Captioning. [[paper]](https://openaccess.thecvf.com/content/ICCV2021/papers/Nguyen_In_Defense_of_Scene_Graphs_for_Image_Captioning_ICCV_2021_paper.pdf) [[code]](https://github.com/Kien085/SG2Caps)
 - Viewpoint-Agnostic Change Captioning with Cycle Consistency. [[paper]](https://openaccess.thecvf.com/content/ICCV2021/papers/Kim_Viewpoint-Agnostic_Change_Captioning_With_Cycle_Consistency_ICCV_2021_paper.pdf)
 - Visual-Textual Attentive Semantic Consistency for Medical Report Generation. [[paper]](https://openaccess.thecvf.com/content/ICCV2021/papers/Zhou_Visual-Textual_Attentive_Semantic_Consistency_for_Medical_Report_Generation_ICCV_2021_paper.pdf)
+- Semi-Autoregressive Transformer for Image Captioning. [[paper]](https://openaccess.thecvf.com/content/ICCV2021W/CLVL/papers/Zhou_Semi-Autoregressive_Transformer_for_Image_Captioning_ICCVW_2021_paper.pdf) (Workshop)
 ##### Video Captioning
 - End-to-End Dense Video Captioning with Parallel Decoding. [[paper]](https://arxiv.org/pdf/2108.07781.pdf) [[code]](https://github.com/ttengwang/PDVC)
 - Motion Guided Region Message Passing for Video Captioning. [[paper]](https://openaccess.thecvf.com/content/ICCV2021/papers/Chen_Motion_Guided_Region_Message_Passing_for_Video_Captioning_ICCV_2021_paper.pdf)
@@ -122,6 +133,7 @@ A curated list of **Visual Captioning** and related area.
 - Distributed Attention for Grounded Image Captioning. [[paper]](https://arxiv.org/pdf/2108.01056.pdf)
 - Dual Graph Convolutional Networks with Transformer and Curriculum Learning for Image Captioning. [[paper]](https://arxiv.org/pdf/2108.02366.pdf) [[code]](https://github.com/Unbear430/DGCN-for-image-captioning)
 - Group-based Distinctive Image Captioning with Memory Attention. [[paper]](https://arxiv.org/pdf/2108.09151.pdf)
+- Direction Relation Transformer for Image Captioning. [[paper]](https://dl.acm.org/doi/pdf/10.1145/3474085.3475607)
 ##### Text Captioning
 - Question-controlled Text-aware Image Captioning. [[paper]](https://arxiv.org/pdf/2108.02059.pdf)
 ##### Video Captioning
@@ -407,8 +419,7 @@ A curated list of **Visual Captioning** and related area.
   
 - Describing like Humans: On Diversity in Image Captioning [[paper]](http://openaccess.thecvf.com/content_CVPR_2019/papers/Wang_Describing_Like_Humans_On_Diversity_in_Image_Captioning_CVPR_2019_paper.pdf)   
   
-- MSCap: Multi-Style Image Captioning With Unpaired Stylized Text  [[paper]](http://openaccess.thecvf.com/content_CVPR_2019/papers/Guo_MSCap_Multi-Style_Image_Captioning_With_Unpaired_Stylized_Text_CVPR_2019_paper.pdf)   
-  
+- MSCap: Multi-Style Image Captioning With Unpaired Stylized Text  [[paper]](http://openaccess.thecvf.com/content_CVPR_2019/papers/Guo_MSCap_Multi-Style_Image_Captioning_With_Unpaired_Stylized_Text_CVPR_2019_paper.pdf)
 - Leveraging Captioning to Boost Semantics for Salient Object Detection  [[paper]](http://openaccess.thecvf.com/content_CVPR_2019/papers/Zhang_CapSal_Leveraging_Captioning_to_Boost_Semantics_for_Salient_Object_Detection_CVPR_2019_paper.pdf)  [[code]](https://github.com/zhangludl/code-and-dataset-for-CapSal)  
   
 - Context and Attribute Grounded Dense Captioning  [[paper]](http://openaccess.thecvf.com/content_CVPR_2019/papers/Yin_Context_and_Attribute_Grounded_Dense_Captioning_CVPR_2019_paper.pdf)  
@@ -469,6 +480,8 @@ A curated list of **Visual Captioning** and related area.
 ### 2018
 
 #### NIPS 2018 ####
+##### Image Captioning
+- A Neural Compositional Paradigm for Image Captioning. [[paper]](https://arxiv.org/pdf/1810.09630.pdf) [[code]](https://github.com/doubledaibo/compcaption_neurips2018)
 ##### Video Captioning
 - Weakly Supervised Dense Event Captioning in Videos. [[paper]](https://papers.nips.cc/paper/2018/file/49af6c4e558a7569d80eee2e035e2bd7-Paper.pdf)  [[code]](https://github.com/XgDuan/WSDEC)
 
@@ -480,6 +493,8 @@ A curated list of **Visual Captioning** and related area.
 - Exploring Visual Relationship for Image Captioning. [[paper]](https://openaccess.thecvf.com/content_ECCV_2018/papers/Ting_Yao_Exploring_Visual_Relationship_ECCV_2018_paper.pdf)
 - Recurrent Fusion Network for Image Captioning. [[paper]](https://arxiv.org/pdf/1807.09986.pdf) [[code]](https://github.com/cswhjiang/Recurrent_Fusion_Network)
 - Boosted Attention: Leveraging Human Attention for Image Captioning. [[paper]](https://arxiv.org/pdf/1904.00767.pdf)
+- Show, Tell and Discriminate: Image Captioning by Self-retrieval with Partially Labeled Data. [[paper]](https://arxiv.org/pdf/1803.08314.pdf)
+- "Factual" or "Emotional": Stylized Image Captioning with Adaptive Learning and Attention. [[paper]](https://arxiv.org/pdf/1807.03871.pdf)
 #### ACL 2018
 ##### Image Captioning
 - Attacking Visual Language Grounding with Adversarial Examples: A Case Study on Neural Image Captioning. [[paper]](https://arxiv.org/pdf/1712.02051.pdf) 
@@ -506,6 +521,7 @@ A curated list of **Visual Captioning** and related area.
 - When to Look: Adaptive Attention via A Visual Sentinel for Image Captioning. [[paper]](https://arxiv.org/pdf/1612.01887.pdf) [[code]](https://github.com/jiasenlu/AdaptiveAttention)
 - Self-critical Sequence Training for Image Captioning. [[paper]](https://openaccess.thecvf.com/content_cvpr_2017/papers/Rennie_Self-Critical_Sequence_Training_CVPR_2017_paper.pdf)
 - Semantic Compositional Networks for Visual Captioning. [[paper]](https://arxiv.org/pdf/1611.08002.pdf) [[code]](https://github.com/zhegan27/Semantic_Compositional_Nets)
+- StyleNet: Generating Attractive Visual Captions with Styles. [[paper]](https://www.microsoft.com/en-us/research/wp-content/uploads/2017/06/Generating-Attractive-Visual-Captions-with-Styles.pdf) [[code]](https://github.com/kacky24/stylenet)
 #### TPAMI 2017
 ##### Image Captioning
 - BreakingNews: Article Annotation by Image and Text Processing. [[paper]](https://arxiv.org/pdf/1603.07141.pdf)
