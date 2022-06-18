@@ -12,6 +12,7 @@ A curated list of **Visual Captioning** and related area.
   * [Survey Papers](#survey-papers)
   * [Research Papers](#reasearch-papers)
     * [2022](#2022)
+        - [IEEE Access 2022](#IEEE-Access-2022)
         - [arxiv 2022](arxiv-2022)
         - [AAAI 2022](#AAAI-2022)
     * [2021](#2021)
@@ -67,6 +68,9 @@ A curated list of **Visual Captioning** and related area.
 
 ## Research Papers
 ### 2022
+#### IEEE Access 2022
+##### Video Captioning
+- Adaptive Curriculum Learning for Video Captioning. [[paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9737531) [[code]](https://github.com/asuith/acl4vc)
 #### arxiv 2022
 ##### Image Captioning
 - Compact Bidirectional Transformer for Image Captioning. [[paper]](https://arxiv.org/pdf/2201.01984.pdf) [[code]](https://github.com/YuanEZhou/CBTrans)
