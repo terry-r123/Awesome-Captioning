@@ -11,6 +11,8 @@ A curated list of **Visual Captioning** and related area.
 ## Table of Contents
   * [Survey Papers](#survey-papers)
   * [Research Papers](#reasearch-papers)
+    * [2026](#2026)
+        - [arxiv 2026](#arxiv-2026)
     * [2022](#2022)
         - [arxiv 2022](arxiv-2022)
         - [AAAI 2022](#AAAI-2022)
@@ -66,6 +68,12 @@ A curated list of **Visual Captioning** and related area.
 - From Show to Tell: A Survey on Image Captioning. [[paper]](https://arxiv.org/pdf/2107.06912.pdf)
 
 ## Research Papers
+### 2026
+#### arxiv 2026
+##### Video Captioning
+- VideoChat3: Fully Open Video MLLM for Efficient and Generalist Video Understanding. [[paper]](https://arxiv.org/abs/2607.14935) [[code]](https://github.com/MCG-NJU/VideoChat3)
+- OneStreamer: Unifying Perception, Memory, and Proactive Response in Streaming Video Interaction. [[paper]](https://arxiv.org/abs/2610.01762) [[code]](https://github.com/MCG-NJU/OneStreamer)
+
 ### 2022
 #### arxiv 2022
 ##### Image Captioning
